@@ -1,15 +1,16 @@
-# Robot
-[TL;DR]
-Me try to learn Computer Vision on Ragnarok Online.
+# ROBot
 
-======
-My learning target is detect objects which are monsters, item drops, on danger character HP and SP. 
-There are several videos on YouTube that teach how to do the similar things with YOLO model.
+Me try to learn [ computer vision | object detection ] on Ragnarok game.
+
+===
+
+I'm so excited to learn how to make a model that can detect objects in a game! 
+I want it to be able to spot monsters, item drops, and dangerous situations where a character's HP is almost 0%.
 
 So I think I need to breakdown the tasks:
-- First I need to train a new dataset by taking a lot of in-game screenshots.
-- Use label-studio to labelling the images.
-- Train the label-studio exported data into YOLO model.
+- Train a new dataset by taking a lot of in-game screenshots.
+- Use labeling application to help labeling the images.
+- Train the labeled data into a model.
 - ...
 
 ## Dependencies
